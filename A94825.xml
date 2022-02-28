@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fair dealer: or, A modest ansvver to the sober letter of His Excellency, the Lord General Monck; being a brief discovery of the meetest expedient, and most sovereign remedy for our present distempers. By the private hand of a gent. of Devon.</title>
+            <author>Trev., J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94825</idno>
+            <idno type="STC">Wing T2128</idno>
+            <idno type="STC">Thomason E1015_11</idno>
+            <idno type="STC">ESTC R203826</idno>
+            <idno type="EEBO-CITATION">99863632</idno>
+            <idno type="PROQUEST">99863632</idno>
+            <idno type="VID">168775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168775)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fair dealer: or, A modest ansvver to the sober letter of His Excellency, the Lord General Monck; being a brief discovery of the meetest expedient, and most sovereign remedy for our present distempers. By the private hand of a gent. of Devon.</title>
+                  <author>Trev., J.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for James Hanzen,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J. Trev., i.e. John Trevanion?.</note>
+                  <note>Annotation on Thomason copy: "Feb. 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168775:1" rendition="simple:additions"/>
+            <p>The fair Dealer: Or, A Modeſt ANSWER TO THE Sober LETTER of His Excellency, The LORD General Monck; Being a Brief Diſcovery of the Meeteſt Ex<g ref="char:EOLhyphen"/>pedient, and moſt Sovereign Remedy for our preſent Diſtempers.</p>
+            <p>By the private hand of a Gent. of <hi>Devon.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>James Hanzen.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168775:2"/>
+            <pb n="3" facs="tcp:168775:2"/>
+            <head>TO HIS EXCELLENCY The Lord General Monck.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IT is no ſmall incouragement to the ſober Party of theſe Na<g ref="char:EOLhyphen"/>tions, to hope for either their Native Freedom, or at leaſt a more ſoft and ſilken bondage, than formerly; whileſt they ſhall ſee your Excellencies influence to have any operation upon the Government or Governours of this Nation: And the rather, be<g ref="char:EOLhyphen"/>cauſe your Excellency in your Letter from <hi>Leiceſter,</hi> of the <hi>21th</hi> inſtant to the Gentlemen of our County, laying aſide your thun<g ref="char:EOLhyphen"/>dering Canons and bellowing Drums, were pleaſed to diſpute the difference with ſober reaſon, enameled over with courting affe<g ref="char:EOLhyphen"/>ction; a way unuſual in thoſe that have been before you: which ſhews the lineaments of your Noble ſpirit, far more precious than the ſavage features of our late Baſſaes; which ſweet deportment, hath courted me forth amongſt others, to reply (with what reve<g ref="char:EOLhyphen"/>rence and ſoftneſs, I may) to your Excellency. That notwith<g ref="char:EOLhyphen"/>ſtanding that handſom Plea contained in your Letter, and there<g ref="char:EOLhyphen"/>in the moſt and beſt that can be ſaid for that cauſe; Yet the ex<g ref="char:EOLhyphen"/>cluded Members (according to our Declaration) are the beſt ex<g ref="char:EOLhyphen"/>pedient that can be proffer'd, for the prevention of farther Mi<g ref="char:EOLhyphen"/>ſteries, and ſetling the Nation in a laſting peace.</p>
+            <p>Your Excellencies Argument is, <hi>That the Excluded Members are moſt of them for Monarchy in Church and State, which cannot now be ſet up in either</hi> (as you judge) <hi>without a new War. Not in the
+<pb n="4" facs="tcp:168775:3"/>Church,</hi> 1. <hi>Becauſe theſe wars have produced different Intereſts, as Presbyterians, Independants, Anabaptiſts, Sectarians in the Church, who ought to have Liberty, as far as Gods Word will warrant them.</hi> 2. <hi>Becauſe the Biſhops, Deans and Chapters Lands are ſold. Nor in the State,</hi> 1. <hi>Becauſe Crown-Lands, the ſupport of Monarchy are ſold.</hi> 2. <hi>Many in</hi> England <hi>have fought againſt the King, and ſo dread his return.</hi> 3. <hi>Monarchy neceſſarily induceth uniformity.</hi> 4. <hi>The Army will never endure Monarchy in Church or State.</hi>
+            </p>
+            <p>For anſwer to what is Eccleſiaſtick, 1. Admit the Presbyte<g ref="char:EOLhyphen"/>rian, Independent, &amp;c. Intereſts, could not be ſecured but by a Republique; Yet who ſhould bring in a Republique but a Free Parliament. 2. Admit that the Excluded Members would deſtroy theſe Intereſts, if reſtored: Shall we do them injuſtice, in keeping them from their truſt; becauſe we fear they will do ſo to others? Is it juſtice in me to take away a Travailers Sword, becauſe I fear he may kill an honeſt man aſſoon as a Thief. Caſuiſts determine, <hi>'tis more Chriſtian to ſuffer evil from, than to do evil to others.</hi> 3. A Parliament conſiſting of all it's Members, but what are legally outed (which cannot with any pretence of reaſon be averred of the Excluded Members) are the only and proper Judges, which way and how theſe Eccleſiaſtick Intereſts may be ſecured; and therefore the buſineſs before us, is <hi>coraem non judice</hi> till they are reſtored. 4. All Parties in this Nation may better expect their ſecurity, as to Eccleſiaſticalls, from a legal and Free Parliament, which carries (as it were) a Stamp of Divine Majeſty on it, rather than from ſuch a founda<g ref="char:EOLhyphen"/>tion, as carries force and violence in the face of it. Men ſel<g ref="char:EOLhyphen"/>dome thrive that dare not truſt Gods way. Caſuits ſay, <hi>we ought to tread paths of righteouſneſs, though they would certainly lead us into miſchiefs:</hi> which yet is but ſuppoſed, the Excluded Members would do, if reſtored. 5. How can your Excellency ſuſpect, the Excluded Members would erect Monarchy in the Church? when themſelves pulled it down, and ſold moſt of the Church Lands. 6. And for toleration of all religious In<g ref="char:EOLhyphen"/>tereſts, as far as is warrantable by the Word of God (which is your own rule) <hi>Oliver</hi> made it the Stairs to Tyranny, tel<g ref="char:EOLhyphen"/>ling us that our civil and ſpiritual Liberties, were inconſi<g ref="char:EOLhyphen"/>ſtent, and gave this for the reaſon, why he excluded ſo many of every Parliament in his time; becauſe if he permitted them, to
+<pb n="5" facs="tcp:168775:3"/>enjoy their freedom they would impoſe upon tender Conſci<g ref="char:EOLunhyphen"/>ences. But to clear this, there are many of their Declarations extant, holding forth this Liberty at large, yea, the late King himſelf never denied a fair, warrantable Toleration ſince 1643. witneſs his Meſſage for a Treaty, <hi>March</hi> 3. 1643. therein offer<g ref="char:EOLhyphen"/>ing <hi>all juſt and reaſonable eaſe of tender Conſciences.</hi> And in his Meſſage <hi>July 4th</hi> 1644. after Sir <hi>William Wallers</hi> Defeat at <hi>Cro<g ref="char:EOLhyphen"/>predy</hi> Bridge, defires <hi>all due regard may be had to-tender Con<g ref="char:EOLhyphen"/>ſciences.</hi> Again in his Meſſage concerning his Conceſſions, <hi>January</hi> the fifteenth, 1645. <hi>he offers full Liberty for the eaſe of their Conſciences, that will not communicate in the Service eſta<g ref="char:EOLhyphen"/>bliſhed by Law.</hi> And in the Explanation of his Conceſſions, <hi>January</hi> 29. 1645. his Majeſty further declares, <hi>He intends that all other Proteſtants</hi> (to wit, beſides Presbyterians) <hi>behaving themſelves peaceably in, and towards the Civil Government, ſhall have the free Exerciſe of their Religion, according to their own way.</hi> Adde his Conceſſions to theſe Excluded Members, up<g ref="char:EOLhyphen"/>on which they were excluded, of <hi>September</hi> 29. 1648. So that no man can rationally doubt, but theſe ſeveral Intereſts are ſuf<g ref="char:EOLhyphen"/>ficiently ſecured, by the Excluded Members, already. Yet 'tis a ſign of a naughty heart, to uphold Injuſtice; becauſe Injuſtice will uphold him, and Juſtice will not.</p>
+            <p n="7">7. All religious perſons have reaſon to truſt full and free Parliaments in religious Matters, more than any Faction of men; for free Parliaments carried on the Reformation from <hi>Henry</hi> the Eight's time, till now. Who appeared againſt bur<g ref="char:EOLhyphen"/>thenſom Ceremonies &amp;c. but this free Parliament? How much did free Parliaments ſtrengthen the hands of Qu. <hi>Elizabeth</hi> in her Reformation? Doth not <hi>Democritus Junior,</hi> a Sectarian in ſhew, but a Jeſuit in truth, demonſtrate our free Parliaments conſciencious diligence to eſtabliſh Religion, and true Liberty? whileſt he in that late Pamphlet, aſſerts our Goſpel and Mini<g ref="char:EOLhyphen"/>ſtery to have been from Parliaments, not from Chriſt.</p>
+            <p n="8">8. Proprietors in Biſhops Lands, &amp;c. are not like to be moleſted by the Excluded Members, if re-admitted to their Truſt, for that the Act for the Sale of them was paſſed by themſelves. And yet if it were judged needful to return any Lands to the Church again, as they were ſold to ſupply the incident Changes of the Nation, ſo the Nation ought to rpeurchaſe them, of the now Proprietor; which judicious men ſay, two moneths revenues (that now goes to maintain the preſent government) would effect; yea, that three months Revenue more (as now eſtabliſhed) would ſatisfy all Proprietors of Kings, Queens, and Princes Lands.</p>
+            <pb n="6" facs="tcp:168775:4"/>
+            <p> And who can doubt the Nation unwilling to pay theſe Sums: rather than endure theſe unjuſt proceedings: and the rather con<g ref="char:EOLhyphen"/>ſidering they muſt pay a 1000 times aſmuch, to maintain the preſent State as it now ſtands. So that your Excellencies ſuppo<g ref="char:EOLhyphen"/>ſed neceſſity, of a civil War to ariſe afreſh, upon the Account of theſe Intereſts; is clearly removed, while each Proprietor re<g ref="char:EOLhyphen"/>ceives full ſatisfaction. And the ſupport of Monarchy (if need<g ref="char:EOLhyphen"/>full) may be reſtored. 9. And if theſe ſeveral Intereſts ſtand (as your Excellency conceives) upon the minor part of a Parlia<g ref="char:EOLhyphen"/>ment, againſt the Major; they are ſecured, not by Law, for the Legiſlative power is confeſſedly in the Major part, as ſuch; but by force, which is none of the beſt tenures: and therefore do truly need the reſtoring the excluded Members, for their better confirmation. Laſtly, be pleaſed my Lord to conſider, that by excluding theſe Members, we are like to venture all our civil and religious Intereſts on the ſucceſs of a battel or two, in which we muſt ingage againſt <hi>Charles Stuart,</hi> a Free Parliament and 11 parts in 12 of the people, who though they want Arms, and you have their Purſe, yet their very Numbers will increaſe their cou<g ref="char:EOLhyphen"/>rage: And what a hazard will theſe Intereſts be then forced to run? So that the War you dreaded, by admitting theſe Members, will certainly follow, without admitting them: the main of which danger may be averted by your Excellencies diligence, in reſtoring the excluded Members; for then you will have none left to oppoſe you, but the damme Cavaliers. In failure of which, if the conquering Sword of <hi>Charles Stuart,</hi> with all theſe adhe<g ref="char:EOLhyphen"/>rents take place, and the prophane multitude get head (my Lord) all the tears in your eyes will be too few, to bewail the miſery your negligence hath brought upon us; when you ſhall ſee all good Intereſts dying, while you are (pardon me, my Lord, if I ſay) <hi>miſtakenly</hi> careful to uphold them.</p>
+            <p>Now for anſwer to what concerns civill affairs; to wit, <hi>that the excluded members are moſt of them for Monarchy, and the In<g ref="char:EOLhyphen"/>conveniences of that.</hi> 1. If that be true, ſo are almoſt all <hi>England:</hi> and who will, or can withſtand a multitude, where the danger is not horribly miſchievous, to give them their will, neither can it be a Government, but Tyranny, where things are managed a<g ref="char:EOLhyphen"/>gainſt the will of the people. 2. Moſt of them ('tis probable)
+<pb n="7" facs="tcp:168775:4"/>have ſo much conſcience, as to judge they are bound to be ſo by the Covenant: and if ſo, how unſaint-like is it to tempt them to perjury? by the loſs of their reputation, excluſion from the Houſe, and ſuch other miſeries, as have befallen Sir <hi>George Booth</hi> already. 3. The whole Houſe, as a Houſe, did never yet declare, they were for Monarchy: So that they are puniſhed, only upon ſu<g ref="char:EOLhyphen"/>ſpition: a thing only practicable among Turks, or againſt young Foxes, and Cubs of Beaſts of prey. 4. Your Excellency knows that moſt of the preſent Houſe, have, and yet do deem, the for<g ref="char:EOLhyphen"/>mer Government of <hi>England,</hi> to have been the beſt on earth; but not now practicable, leſt it ſhould turn them off the helm; or for ſome other circumſtances, ariſing from our bloudy diſcen<g ref="char:EOLhyphen"/>ſions. 5. The Excluded Members, have as much cauſe to fear a Monarchy, as either of theſe now ſitting, (unleſs it be for ſome private gain in the diſſolution of Monarchy) and ought to be as careful to make good terms; for that they alſo have fought a<g ref="char:EOLhyphen"/>gainſt the <hi>Stuarts</hi> Family. 6. That poſition of your Excellencies is not clear; <hi>that many muſt fight againſt the</hi> Stuarts, <hi>becauſe they have done it already:</hi> for the Scots Nation fought againſt them, and ſince have fought for them: ſo have particular men of the beſt rank, as <hi>Langhorne, Poyer, Powel, Maſſey,</hi> &amp;c. and doubtleſs, you know 10000. that are at this day in the ſame propenſeneſs. 7. That the ſupport of Monarchy is taken away, is anſwered in the 8 <hi>Reſp.</hi> of Eccleſiaſtick affairs. 8. That Monarchy requires uniformity in the Church is not clear: in that K. <hi>James</hi> is always inſtanced in, as one that allowed toleration, &amp; ſo is <hi>Conſtantine</hi> by many, &amp; <hi>Steven</hi> K. of <hi>Poland,</hi> our late K. <hi>Charls</hi> profeſſed it: the Jewiſh Monarchy admitted it, <hi>Poland</hi> hath for many hundred yeers allowed it, <hi>France</hi> tolerates Hugenotes in great abundance; and the Turkiſh Empire it ſelf gives way to it, ſo that if the ex<g ref="char:EOLhyphen"/>cluded Members ſhould reduce Monarchy with them, yet not Uniformity; And yet admit they ſhould, It is not lawful for us to keep them from their right, becauſe they will do what is not meet with it. 9. Your laſt argument, that the Army will not en<g ref="char:EOLhyphen"/>dure it, is the ſting in the tayle, the greateſt and moſt ſubſtanti<g ref="char:EOLhyphen"/>al of all the arguments offered, which indeed I cannot anſwer, becauſe I have not a ſword in mine hand. But what will not the Army endure? a Monarchy? who ſet up <hi>Oliver</hi> but the
+<pb n="8" facs="tcp:168775:5"/>Army? and <hi>Lambert</hi> and <hi>Fleetwood,</hi> but the Army who made Emperors in deſpite of the Roman Senate, but the Army? who encouraged Julius Ceſar to paſs Rubicon againſt the Senatorian Decree, but the Army? As Armies are beſt lead by a Unity, ſo they beſt lead to a Unity. 'Tis true, the Army may not endure a Monarchy, but doubtleſs can endure a Tyranny: and that I doubt not but we ſhall ſee, as ſoon as they have a little leaſure. But my Lord, 'tis a <hi>Wallingfordian</hi> diſtinction to talk of <hi>populus</hi> and <hi>populus armatus,</hi> as if the Souldiers Rendevouz-votes, were binding as Senatorian Lawes, we hope your Excellency hath fought againſt thoſe lawleſs practices. Thus have I unfolded my thoughts to your Excellency, concerning your Letter; in ſuch lines as my rude countrey, and ruder education will afford, giving you onely this farther Information, that the eyes of this Countrey are much upon you, and would be proud to hear, that your Excellency ſhould prove the onely true Patriot, that durſt venture his fortunes, to ſave over tottered veſſel from utter ſhipwrack; which alone can be done, <hi>by reſtoring the Excluded Members.</hi> In doing of which your grateful country will caſt their lives, and what is dear to them, at your feet, and reckon them<g ref="char:EOLhyphen"/>ſelves your ranſomed vaſſals; In which that the Lord would ſtrengthen your hands, is the earneſt prayer of</p>
+            <closer>
+               <signed>Your Excellencies humble Servant, <hi>J. Trev.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
